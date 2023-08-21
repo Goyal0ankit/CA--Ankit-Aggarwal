@@ -1,1 +1,1 @@
-# CA--Ankit Aggarwal
+The Hypothetical Processor Simulation project is a computer architecture project that involves designing and simulating a hypothetical processor using a C++ console application. The goal of this project is to develop a virtual processor model capable of executing macroinstructions defined specifically for this processor.
